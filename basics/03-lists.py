@@ -1,5 +1,8 @@
 #! /usr/bin/pyhton3
 
+
+##### > https://docs.python.org/3.4/tutorial/datastructures.html
+
 #Lists
 
 
