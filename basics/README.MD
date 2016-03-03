@@ -1,4 +1,3 @@
-### THE BASICS
+## PYTHON Workshop
 
-http://www.learnpython.org/
-https://docs.python.org/3.4/tutorial
+Code samples and demos
