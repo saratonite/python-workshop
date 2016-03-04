@@ -27,3 +27,10 @@ def add(a,b):
     return a+b;
 
 print(add(10,20));
+
+## Functions with default arguments
+
+
+## Functions with key word arguments
+
+## Lambda Functions

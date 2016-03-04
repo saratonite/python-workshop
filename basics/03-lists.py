@@ -33,3 +33,5 @@ print(list1)
 list1.append("help")
 
 print(list1)
+
+# TODO https://docs.python.org/3.4/tutorial/datastructures.html
