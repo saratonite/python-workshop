@@ -28,9 +28,17 @@ def add(a,b):
 
 print(add(10,20));
 
-## Functions with default arguments
+
 
 
 ## Functions with key word arguments
+
+def keyfun(name="Sarath",action="Cool"):
+    print(name+" is ",action);
+
+keyfun(action="Awesome");
+
+## Arbitrary Argument Lists
+
 
 ## Lambda Functions

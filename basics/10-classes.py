@@ -23,4 +23,7 @@ class Bear:
         print("Class initializing",self.name);
 
 
+
+
+
 t = Bear()
